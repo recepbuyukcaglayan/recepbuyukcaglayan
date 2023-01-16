@@ -6,11 +6,18 @@ Management İnformation System || AI Engineer
 
 Hello, I'm Recep. I am a senior student at the Department of Management Information Systems. I am developing myself in the field of artificial intelligence and machine learning. I also deal with cyber security and ethical hacking.
 
+
+![](https://github.com/recepbuyukcaglayan/gif/blob/main/Ads%C4%B1z%20tasar%C4%B1m.gif)
+
+
+
 * 🌍  I'm based in Turkey
 * ✉️  You can contact me at [rbuyukcaglayan@gmail.com](mailto:rbuyukcaglayan@gmail.com)
 * 🚀  I'm currently working on [Machine Learning](http://github.com/recepbuyukcaglayan/Machine-Learning)
 * 🧠  I'm learning Deep Learning
 * ⚡  I'm a relentless cybersecurity expert who stops hackers at night. Just like batman but I'm sitting at the computer. 😅
+
+
 
 ### Skills
 
