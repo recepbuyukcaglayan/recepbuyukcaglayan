@@ -4,8 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Management İnformation System || AI Engineer
 --------------------------------------------
 
-Hello, I'm Recep. I am a senior student at the Department of Management Information Systems. I am developing myself in the field of artificial intelligence and machine learning. I also deal with cyber security and ethical hacking.
-
+Hello, I am Recep. I am doing my master's degree in Management Information Systems Department. I am improving myself in the field of artificial intelligence and machine learning. I am also interested in program development, microcontroller coding, physical sensors and cyber security and ethical hacking.
 
 ![](https://github.com/recepbuyukcaglayan/gif/blob/main/Ads%C4%B1z%20tasar%C4%B1m.gif)
 
